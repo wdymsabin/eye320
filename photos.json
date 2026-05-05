@@ -1,0 +1,76 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "thumbnail": "images/thumbnails/thumb-a.jpg",
+            "fullSize": "images/photographs/photo_20260423_090815.jpg",
+            "title": "my first day",
+            "talk": "this is my master, he kindly decided to let me have fun and walk around with him. i really like him and he never treats me bad!",
+            "date": "15.03.2026"
+        },
+        {
+            "id": 2,
+            "thumbnail": "images/thumbnails/thumb-b.jpg",
+            "fullSize": "images/photographs/photo_20260423_093234.jpg",
+            "title": "working :^(",
+            "talk": "he is working again, but seems to be having fun. i still remember he promised me to go for a walk one day!",
+            "date": "16.03.2026"
+        },
+        {
+            "id": 3,
+            "thumbnail": "images/thumbnails/thumb-c.jpg",
+            "fullSize": "images/photographs/photo_20260423_114847.jpg",
+            "title": "we're going out! finally!",
+            "talk": "YAY!!! we are putting on more clothes and heading for a walk...i am SO excited and i heard master say it is still chilly outside. so that explains all the excessive clothing",
+            "date": "18.03.2026"
+        },
+        {
+            "id": 4,
+            "thumbnail": "images/thumbnails/thumb-d.jpg",
+            "fullSize": "images/photographs/photo_20260423_114923.jpg",
+            "title": "GRASS",
+            "talk": "this is my first time seeing grass!! omg it's soooooo green...",
+            "date": "18.03.2026"
+        },
+        {
+            "id": 5,
+            "thumbnail": "images/thumbnails/thumb-e.jpg",
+            "fullSize": "images/photographs/photo_20260423_115204.jpg",
+            "title": "rainy..",
+            "talk": "today i saw rain...insane experience, gladly my master covered me with an umbrella! unbellivable though, water falling from the sky!",
+            "date": "22.03.2026"
+        },
+        {
+            "id": 6,
+            "thumbnail": "images/thumbnails/thumb-f.jpg",
+            "fullSize": "images/photographs/photo_20260423_115244.jpg",
+            "title": "rain again",
+            "talk": "it is raining again! i nearly drowned in all that water, but hey!! this umbrella came in handy. after the rain stops you start appreciating the normal weather a little bit more.",
+            "date": "23.03.2026"
+        },
+        {
+            "id": 7,
+            "thumbnail": "images/thumbnails/thumb-g.jpg",
+            "fullSize": "images/photographs/photo_20260423_115331.jpg",
+            "title": "vending machines!",
+            "talk": "BLOODSUCKERS!! TRAITORS!..is what my master said when he showed me these things, they are called vending machines! apparently, they eat green paper and give plastic with food(?) inside. i am not sure why people walked to it and did that though!@",
+            "date": "31.03.2026"
+        },
+        {
+            "id": 8,
+            "thumbnail": "images/thumbnails/thumb-h.jpg",
+            "fullSize": "images/photographs/photo_20260423_115413.jpg",
+            "title": "other humans",
+            "talk": "today i was taken by my master on a train ride! sooo many humans!! they are all so different, but yet the same...i wonder if they walk their cameras out..",
+            "date": "3.04.2026"
+        },
+        {
+            "id": 9,
+            "thumbnail": "images/thumbnails/thumb-i.jpg",
+            "fullSize": "images/photographs/photo_20260423_115437.jpg",
+            "title": "umbrella again!",
+            "talk": "rain!!! rain!! rain! beautiful, but dangerous type of weather as i am now aware..but umbrella was there again! my master told me that this is a great umbrella and it is from the same place where andy warhol's works are stored!",
+            "date": "20.04.2026"
+        }
+    ]
+}
